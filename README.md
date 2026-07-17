@@ -4,7 +4,7 @@
 
 <p><strong>Full-stack Web & App Developer</strong></p>
 
-I build web and mobile experiences with TypeScript, React, Next.js, and React Native.
+I build web and mobile experiences with TypeScript, React, Next.js, Vue, Nuxt, and React Native.
 
 <a href="https://cocoburger.github.io/"><img src="https://img.shields.io/badge/Tech_Blog-181717?style=flat-square&logo=githubpages&logoColor=white" alt="Technical blog" /></a>
 <a href="https://www.linkedin.com/in/burgerbum"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -14,8 +14,9 @@ I build web and mobile experiences with TypeScript, React, Next.js, and React Na
 
 ## About Me
 
-- I develop web applications with React and Next.js, and mobile applications with React Native.
+- I develop web applications with React, Next.js, Vue, and Nuxt, and mobile applications with React Native.
 - I work across backend and data layers with NestJS, Firebase, and GraphQL.
+- I deploy and operate applications on AWS and Oracle Cloud Infrastructure.
 - I care about clear UI flows, maintainable architecture, and automated testing.
 - I turn the problems I solve and the lessons I learn into practical technical writing.
 
@@ -23,13 +24,19 @@ I build web and mobile experiences with TypeScript, React, Next.js, and React Na
 
 ### Web & Mobile
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs&theme=light" alt="TypeScript, JavaScript, React, and Next.js" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nuxtjs&theme=light" alt="TypeScript, JavaScript, React, Next.js, Vue, and Nuxt" />
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 ### Backend & Data
 
 <img src="https://skillicons.dev/icons?i=nestjs,firebase,graphql&theme=light" alt="NestJS, Firebase, and GraphQL" />
+
+### Cloud & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=aws&theme=light" alt="Amazon Web Services" />
+
+![Oracle Cloud Infrastructure](https://img.shields.io/badge/Oracle_Cloud_Infrastructure-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 ### UI & Testing
 
